@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-ocular-photopic-negative-response-phnr-glaucoma-skill",
+  "version": "1.0.0",
+  "description": "Calculates full-field ERG Photopic Negative Response (PhNR) amplitude and PhNR/b-wave ratio to assess retinal ganglion cell function and glaucoma risk.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "ophthalmology",
+    "erg",
+    "phnr",
+    "glaucoma",
+    "retinal-ganglion-cells",
+    "vision",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
